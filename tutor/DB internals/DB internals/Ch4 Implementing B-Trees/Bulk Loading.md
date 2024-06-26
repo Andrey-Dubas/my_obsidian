@@ -1,0 +1,2 @@
+We can take [[Right-only appends]] idea even further.
+Given all data is presorted and we need to build [[B-tree]] out of data, we can build leaf trees first, building it bottom-up, avoiding splits and merges. In this case we build a page and write it whole.

@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "bfed3dc3f56c872a",
+    "type": "split",
+    "children": [
+      {
+        "id": "50cebd9fc7c1df5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "759ab9ca6e50283b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "496098f72795bcbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dd755970f3aaa88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdcf552c70c4eb60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44de481610ea692a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac7c4934ce222bbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db7e3e666c63606b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f10dbb6d8d2b6739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d7e57691016d797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "167b3232e9c280a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4949fcda527870ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0c549123240787e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "759ab9ca6e50283b",
+  "lastOpenFiles": [
+    "Specific cases/Rate limit/algorithms/Sliding window algorithm.md",
+    "Specific cases/Rate limit/algorithms/Sliding window log.md",
+    "Specific cases/Rate limit/algorithms/Token Bucket Algorithm.md",
+    "Specific cases/Rate limit/algorithms/Fixed window counter.md",
+    "Specific cases/Rate limit/algorithms/Leaking Bucket.md",
+    "Excalidraw/Sliding window log 2024-06-25 12.39.36.excalidraw.md",
+    "Excalidraw/Sliding window algorithm 2024-06-25 12.19.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-25 00.31.53.excalidraw.md",
+    "Excalidraw/Leaking Bucket 2024-06-25 00.47.48.excalidraw.md",
+    "Welcome.md",
+    "Excalidraw/Drawing Sliding window.excalidraw.md",
+    "Excalidraw/Drawing Sliding window.excalidraw 1.md",
+    "Excalidraw/Drawing 2024-06-25 11.59.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-25 11.13.58.excalidraw.md",
+    "Excalidraw",
+    "Specific cases/Geodata/Geohash.md",
+    "Specific cases/Geodata",
+    "Untitled.md",
+    "Specific cases/Rate limit/algorithms",
+    "Specific cases/Rate limit",
+    "Specific cases"
+  ]
+}

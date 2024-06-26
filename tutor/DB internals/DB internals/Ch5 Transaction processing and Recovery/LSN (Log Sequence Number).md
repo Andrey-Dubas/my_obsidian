@@ -1,0 +1,1 @@
+Each log in [[write-ahead log (WAL)]] has LSN

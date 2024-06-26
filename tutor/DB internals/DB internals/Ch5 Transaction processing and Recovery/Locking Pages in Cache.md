@@ -1,0 +1,2 @@
+Since [[B-tree]] gets narrower towards the top, higher-level nodes used intensively to find nodes, and they get modified quite seldom. We can "lock" pages that are read frequently in a cache page. Locking pages in the cache is called *pinning*. Pinned pages are kept in memory for a longer time.
+For ==page prefetching== [[postgreSQL]] use a circular buffer (in other words, FIFO page replacement policy)

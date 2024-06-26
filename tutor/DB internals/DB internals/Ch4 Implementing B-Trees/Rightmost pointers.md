@@ -1,0 +1,1 @@
+If the rightmost child is split and the new cell appended to its parent, the rightmost child pointer has to be reassigned

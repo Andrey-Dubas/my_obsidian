@@ -1,0 +1,4 @@
+If page cache is full and we need to add a new page, one of the pages has to be evicted. If the page is **dirty**, it has to be flushed to the disk first.
+Triggering a flush on every eviction is expensive, so some DBs use a separate background process that cycles through the dirty pages that are likely to be evicted, ==updating their disk version==.
+[[postgreSQL]] has background flush writer that does it.
+Another thing to keep in mind is *durability*. If the DB has crashed, all data that was not flushed is lost. To make sure all changes are persisted, flushes are coordinated by the **checkpoint** process. The checkpoint process controls the [[write-ahead log (WAL)]] and page cache. **Only log records associated with operations applied to cached pages that were flushed can be discarded from the [[write-ahead log (WAL)]]**. (==How logs are associated with dirty pages then?==) Dirty pages cannot be evicted until process completes.

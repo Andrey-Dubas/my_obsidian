@@ -1,0 +1,12 @@
+securityDefinitions:
+  DEFINITION_NAME:
+
+    authorizationUrl: ""
+    flow: "implicit"
+    type: "oauth2"
+    x-google-issuer: "SA_EMAIL_ADDRESS
+
+"
+    x-google-jwks_uri: "https://www.googleapis.com/robot/v1/metadata/x509/SA_EMAIL_ADDRESS
+
+"

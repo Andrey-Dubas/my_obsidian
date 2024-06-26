@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "b9a39a3b1a0a5d0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b97f01640cc485e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d405724d7239fd8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "30e5cb54408a81e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenAPI spec file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbf535d19ba4e4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Securing the API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daa52b10c0a67ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to API keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e79bd54d89a503ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro to API keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7885b71a47305f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenAPI specification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a603fad470f5cac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API config with API key v1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b3f36cc4d56562a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auth/crypto/RSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b4993d8fb7528ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP gateways comparison/Apigee, API Gateway, or Cloud Endpoints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f945f63775bee65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GCP gateways comparison/Apigee, API Gateway, or Cloud Endpoints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dac60ab4df5c4e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotas configure (OpenAPI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79c76280d57aeaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotas configure (OpenAPI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2c78c46caf0793a",
+    "type": "split",
+    "children": [
+      {
+        "id": "65aafe643230f7a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef40ab2e84fc8979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cd9ec5176759847",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0e027a0606fdb15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17ffc76017a5a788",
+    "type": "split",
+    "children": [
+      {
+        "id": "7500690493b93ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c2675d59ad0696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quotas configure (OpenAPI).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b9562d203daa4e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quotas configure (OpenAPI).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3916741135d0a28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ad1a7430def3f77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quotas configure (OpenAPI).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79c76280d57aeaf7",
+  "lastOpenFiles": [
+    "Securing the API.md",
+    "API Gateway.md",
+    "GCP gateways comparison/Apigee, API Gateway, or Cloud Endpoints.md",
+    "Auth/Google Id token.md",
+    "Auth/crypto/Sign JWT token in GO.md",
+    "Auth/crypto/RSA.md",
+    "Auth/crypto/Digital signature.md",
+    "Auth/Authentication between services.md",
+    "Auth/API keys.md",
+    "Quotas configure (OpenAPI).md",
+    "Principal.md",
+    "OpenAPI specification.md",
+    "OpenAPI spec file.md",
+    "OpenAPI extensions.md",
+    "MY QUESTIONS.md",
+    "API config.md",
+    "m9mct719.bmp",
+    "Welcome.md",
+    "Auth/OAuth/OpenAPI OAuth example.md",
+    "Cloud Endpoints/Google endpoint medium (to be done).md",
+    "Cloud Endpoints/README.md",
+    "2024-06-20.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "API config with API key v1.md",
+    "Intro to API keys.md",
+    "lu90pavk.bmp",
+    "1oeg35a7.bmp",
+    "apigee/APIGEE.md",
+    "links.md",
+    "Cloud Endpoints",
+    "GCP gateways comparison",
+    "Auth/OAuth",
+    "apigee",
+    "Auth/crypto",
+    "Auth"
+  ]
+}

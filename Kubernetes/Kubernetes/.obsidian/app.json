@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "*.PNG",
+    ".png",
+    "PNG",
+    ".PNG",
+    "*\\.PNG"
+  ]
+}

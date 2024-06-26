@@ -1,0 +1,1 @@
+both [[Payment processor]] and [[Payment gateway]] are payment providers

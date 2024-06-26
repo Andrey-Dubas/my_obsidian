@@ -1,0 +1,4 @@
+- Backend payment system register payment with unique checkout ID (from payment provider)
+- Payment provider sends us token
+- store checkout id and token in local DB
+- render purchase page with a token

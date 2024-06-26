@@ -1,0 +1,51 @@
+# Cloud Endpoints: The Security Guardian
+![damlevinay11_0-1706022728669.png](https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/100855iB28729BF76718A0C/image-size/large?v=v2&px=999 "damlevinay11_0-1706022728669.png")
+In the world of cloud APIs, security isn't just important – it's the rule of law. That's where Cloud Endpoints comes in, shining as the security-focused champion. It arms you with an arsenal of features to fortify your API access, like:
+
+- **Granular access control**: Define precisely who can access your APIs and what actions they can perform
+- **Advanced security features**: Leverage IP whitelisting, rate limiting, and threat detection for enhanced protection
+- **IAM integration**: Benefit from centralized control through Google Cloud's Identity and Access Management
+- **Auditing and logging**: Track API usage meticulously for compliance and troubleshooting purposes. Choosing the Right Tool: Finding Your API Perfect Match
+- **Consumes compute resources**: ESPv2 (Extensible Service Proxy) is deployed as a sidecar
+
+
+
+# API Gateway: The Lightweight Champion
+![damlevinay11_1-1706022728567.png](https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/100853iB96B58E2073C9015/image-size/large?v=v2&px=999 "damlevinay11_1-1706022728567.png")
+When you need to manage APIs without the hassle, API Gateway swoops in to save the day. Like a streamlined superhero, it's easy to use, quick to launch, and perfect for those just getting their API wings! API Gateway is like a gentle guide, walking you through the process with its user-friendly ways and speedy setup as follows:
+
+- **Simple deployment**: Set up and manage your APIs directly from the Cloud Console
+- **Cost-effective**: Pay only for the resources you use, making it budget-friendly
+- **Built-in security**: Enjoy robust security with authentication, authorization, and throttling capabilities
+- **Seamless integration**: Integrate seamlessly with other Google Cloud services like Cloud Functions and Cloud Run
+
+_**Known issues: API Gateway is not available in all regions_
+
+# Apigee: The Comprehensive API Management Solution
+
+
+
+![damlevinay11_2-1706022728637.png](https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/100854i8EC7C6429F3C46BC/image-size/large?v=v2&px=999 "damlevinay11_2-1706022728637.png")
+Apigee is the comprehensive toolkit of API management, offering a multitude of features to tackle complex API requirements. Think of Apigee as your all-in-one API management solution - it has a rich set of features to address even the most intricate API needs. Apigee is like the powerhouse of API management, providing a broad range of tools to streamline and effectively handle complex API scenarios:
+
+- **Full lifecycle management**: Design, develop, deploy, secure, and monitor your APIs with ease
+- **Advanced features**: Unlock traffic routing, monetization options, insightful analytics, and AI-powered insights
+- **Hybrid and multi-cloud deployment**: Adapt to your environment with on-premises, cloud, or hybrid deployments
+- **Flexibility**: Embrace diverse API styles (REST, SOAP, GraphQL, gRPC or OpenAPI) and protocols
+
+
+### **High level tabular comparison**
+|                            |                                                                                                                                                         |                                                                                                                                                                                                   |                                                                                                                                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Feat****ure**            | **Cloud Endpoints**                                                                                                                                     | **API Gateway**                                                                                                                                                                                   | **Apigee**                                                                                                                                                                         |
+| **Deployment**             | _Cloud managed_                                                                                                                                         | _Cloud managed_                                                                                                                                                                                   | _Apigee X is fully managed and Hybrid (control plane managed by Google and runtime plane managed by customer)_                                                                     |
+| **Target Backends**        | _Primarily Google Cloud services_                                                                                                                       | _Primarily GCP backends (Cloud Functions, App Engine, Cloud Run)_                                                                                                                                 | _Any backend (internal or external)_                                                                                                                                               |
+| **Management Complexity**  | _Simpler, integrated with Cloud services_                                                                                                               | _Simpler, less configuration needed_                                                                                                                                                              | _More complex, requires more configuration_                                                                                                                                        |
+| **Security Features**      | _Basic, leverages IAM for authentication_                                                                                                               | _Basic, includes authentication and key validation_                                                                                                                                               | _Extensive, including API key management, OAuth, threat protection_                                                                                                                |
+| **Developer Portal**       | _Not included_                                                                                                                                          | _Not included_                                                                                                                                                                                    | _Included_                                                                                                                                                                         |
+| **Monitoring & Analytics** | _Basic, integrated with Cloud Monitoring_                                                                                                               | _Basic, monitoring and logging available_                                                                                                                                                         | _Advanced, detailed insights_                                                                                                                                                      |
+| **Pricing**                | _Refer_ [_https://cloud.google.com/api-gateway/pricing_](https://cloud.google.com/api-gateway/pricing)                                                  | _Refer_ [_https://cloud.google.com/endpoints/pricing_](https://cloud.google.com/endpoints/pricing)                                                                                                | _Refer_ [_https://cloud.google.com/apigee/docs/api-platform/reference/pay-as-you-go-examples_](https://cloud.google.com/apigee/docs/api-platform/reference/pay-as-you-go-examples) |
+| **Use cases**              | _Exposing Google Cloud services as APIs, mobile backend development for e.g. managing gRPC services with locally hosted gateway for private networking_ | _Simple APIs for serverless workloads on Google Cloud, internal APIs for e.g. building proof-of-concepts or entry-level API use cases to package serverless applications running on Google Cloud_ | _Complex API management, integrations with diverse backends, B2B APIs for e.g. managing high value/volume of APIs with enterprise-grade security and dev engagement_               |
+|                            |                                                                                                                                                         |                                                                                                                                                                                                   |                                                                                                                                                                                    |
+
+_**Apigee is working on a product roadmap to converge Apigee + Cloud Endpoints + API Gateway into a single offering_
