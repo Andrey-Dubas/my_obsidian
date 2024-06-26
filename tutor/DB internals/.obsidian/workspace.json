@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "9f686d7061bb5a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2379c636b06ce255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dddbccca9068d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Serializability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a46dd2a868ae697c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transaction Isolation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f6e430f9b1e12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1a083038c517fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de85d61c72b077aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b74ecbda90751e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Nonrepeatable Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80b7e6b3bd169092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "309521c8195ddcd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d1b18883b69df00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a4e7ed4aa93c78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "07df76473edf59d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04d99333aa9a17f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c7e3d3d3bac4f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e2b5347189c2d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d25c49e10922e57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e963af9a4b7fd6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "822ef71c58e7aa1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70a13844326d7500",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "80b7e6b3bd169092",
+  "lastOpenFiles": [
+    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Nonrepeatable Read.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Phantom Records.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/README.md",
+    "Untitled.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies",
+    "Transaction Isolation.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Serializability.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Concurrency Control.md",
+    "DB internals/Ch5 Transaction processing and Recovery/ARIES.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Steal and Force Policies.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Operation Versus Data Log.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md",
+    "DB internals/Ch5 Transaction processing and Recovery/entities/Transaction manager.md",
+    "DB internals/Ch5 Transaction processing and Recovery/entities/write-ahead log (WAL).md",
+    "DB internals/Ch5 Transaction processing and Recovery/LSN (Log Sequence Number).md",
+    "DB internals/Ch5 Transaction processing and Recovery/Page eviction.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Page  Replacement.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Buffer Management.md",
+    "DB internals/Ch5 Transaction processing and Recovery/entities/Log manager.md",
+    "DB internals/Ch5 Transaction processing and Recovery/entities/Lock Manager.md",
+    "DB internals/Ch5 Transaction processing and Recovery/entities/Checkpoint.md",
+    "DB internals/Ch5 Transaction processing and Recovery/entities/Untitled.md",
+    "DB internals/Ch4 Implementing B-Trees/Compression.md",
+    "DB internals/Ch4 Implementing B-Trees/Bulk Loading.md",
+    "DB internals/Ch4 Implementing B-Trees/Right-only appends.md",
+    "DB internals/Ch4 Implementing B-Trees/Overflow Pages.md"
+  ]
+}

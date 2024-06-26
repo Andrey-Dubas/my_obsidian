@@ -4,7 +4,7 @@ During a checkpoint:
  - wait until all current transactions complete
  - flush log to disk
  - flush all dirty pages to disk
- - write <CKPT> log record, flush log again
+ - write \<CKPT\> log record, flush log again
 After that, we are ready to resume to transactions
-During recovery, we execute commands from [[write-ahead log (WAL)]]  from the last <CKPT>. We even can truncate WAL.
+During recovery, we execute commands from [[write-ahead log (WAL)]]  from the last \<CKPT\>. We even can truncate WAL till CKPT.
 

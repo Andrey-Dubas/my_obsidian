@@ -1,0 +1,2 @@
+#transaction_isolation 
+An ==isolation level== specifies when and how parts of transaction can and should become visible to other transactions. It describes a degree to which transactions are isolated from each concurrently executing transactions and what kind of anomalies can be encountered during execution.
