@@ -1,0 +1,5 @@
+The lowest isolation level is [[Read Uncommitted]].  It allows one transactions to see uncommitted changes of other transaction. In Other words, [[Dirty Read]] is allowed.
+Then goes [[Read Committed]], However, it does not guarantee that if a transaction attempts to read the same data record once again at a later stage, it will see the same value (Probably if a page is not flushed and we read a value, we get the old one, and a value is updated later).
+Later goes [[Repeatable Read Isolation]] level.
+And finally The latest is [[Serializable Isolation]] level.
+Some databases use [[Snapshot Isolation]].  Under snapshot Isolation, a transaction can observe the state changes performed by all transactions that were committed by the time it has started. Each transaction takes snapshot of data and executes commands against it. The transaction commits values if the values it has modified wasn't changed.

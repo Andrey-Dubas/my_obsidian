@@ -1,0 +1,1 @@
+Usually before modifying a [[B-tree]] we first need to find a leaf node, therefore, we need to acquire a read lock on nodes, lated, when we modify it, we do [[Latch Upgrading]] to write access.

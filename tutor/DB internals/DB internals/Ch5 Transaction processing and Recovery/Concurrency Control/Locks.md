@@ -1,0 +1,4 @@
+In transaction processing, there's a distinction between the mechanisms that guard the logical and physical data integrity.The 2 concepts responsible for physical and logical integrity are, corresponding [[Latches]] and [[Locks]].
+What's called [[Latch]] here is called a lock in systems programming.
+[[Locks]] are used to isolate and schedule overlapping transactions and manage database content but not the internal storage structure.
+[[Latches]] guard a physical representation. Any modification to a B-tree is done using latches per page. Latches can be a read and write lock. A ==RW lock== allows multiple readers to access concurrently, and provides exclusive access to writers.

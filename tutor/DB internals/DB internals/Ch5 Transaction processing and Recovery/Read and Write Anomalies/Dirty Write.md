@@ -1,0 +1,1 @@
+T1 makes [[Dirty Read]] (read an uncommitted value) of a record, modifies it and saves it. Therefore, a transaction results are based on uncommitted value (which never been committed)

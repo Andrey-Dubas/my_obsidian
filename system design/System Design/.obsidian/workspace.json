@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md",
+                "file": "Service Discovery/Service Register vs Service Registry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40dbefeda9091505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service Mesh/Istio/General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md",
+                "file": "Service Mesh/Istio/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md",
+                "file": "Service Mesh/Istio/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specific cases/Rate limit/algorithms/Sliding window log.md"
+                "file": "Service Mesh/Istio/General.md"
               }
             }
           }
@@ -147,10 +160,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "759ab9ca6e50283b",
+  "active": "40dbefeda9091505",
   "lastOpenFiles": [
-    "Specific cases/Rate limit/algorithms/Sliding window algorithm.md",
+    "Service Mesh/SMI (Service Mesh Interface).md",
+    "Service Mesh/Istio/Istio Ingress Gateway.md",
+    "Service Mesh/Istio/General.md",
+    "Pasted image 20240704183629.png",
+    "Pasted image 20240704183136.png",
+    "Service Mesh/Istio",
+    "Service Discovery/Service Register vs Service Registry.md",
+    "Service Mesh",
+    "Service Discovery/Service Discovery in Kubernetes.md",
+    "Service Discovery/Server-Side Service Discovery.md",
+    "Service Discovery/README.md",
+    "Service Discovery/Client-Side Service Discovery.md",
+    "Service Discovery/Service Registry.md",
+    "Ser4vice Register.md",
+    "ym3ifa2r.bmp",
     "Specific cases/Rate limit/algorithms/Sliding window log.md",
+    "Service Discovery",
+    "Specific cases/Rate limit/algorithms/Sliding window algorithm.md",
     "Specific cases/Rate limit/algorithms/Token Bucket Algorithm.md",
     "Specific cases/Rate limit/algorithms/Fixed window counter.md",
     "Specific cases/Rate limit/algorithms/Leaking Bucket.md",

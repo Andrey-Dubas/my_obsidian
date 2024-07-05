@@ -1,0 +1,1 @@
+This node component is responsible for joining the cluster

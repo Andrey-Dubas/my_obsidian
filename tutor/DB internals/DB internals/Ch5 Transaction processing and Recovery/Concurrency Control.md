@@ -1,5 +1,0 @@
-[[Concurrency Control]] is a set of techniques  for handling interactions between concurrently executing transactions.
-There are techniques can be roughly grouped in 3 categories:
-- [[Optimistic Concurrency Control(OCC)]] - allow transactions to execute concurrent read and write operations, and determines whether or not the result of the combined execution is [[serializable]]. Transactions do not block each other, maintain histories of their operations and check these histories for possible conflicts before commit. if execution results in a conflict, one of the conflicting transactions is aborted.
-- [[Multiversion ConcurrencyControl (MVCC)]] - guarantees a consistent view of the database at some point in the past identified by timestamp  by allowing multiple timestamped versions of the record to be present.
-- [[Pessimistic Concurrency Control (PCC)]] - there are lock-based and nonlocking techniques. Nonblocking approaches maintain a list of read and write operation lists and ==restrict execution==, depending on the schedule of unfinished transactions. Pessimistic schedules can result in a deadlock of transactions.

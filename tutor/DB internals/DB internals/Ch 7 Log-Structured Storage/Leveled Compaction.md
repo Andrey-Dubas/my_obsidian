@@ -1,0 +1,7 @@
+[[Leveled Compaction]] separates disk-resident tables into **levels**. Tables on each level have defined range size, and each level has a corresponding index.
+level 0 tables created by flushing memtable, level 1 tables - by merging level 0 tables.
+==Key ranges for the tables on level 1 and all levels with higher index do not overlap==, so level 0 tables have to be partitioned during compaction, split into ranges, and merged with tables holding corresponding key ranges. Alternatively, compaction can include all level 0 and level 1 tables, and output partitioned level-1 tables.
+Compactions on the levels with higher indexes pick tables from 2 consecutive levels with overlapping ranges and produce a new table on higher level. 
+Keeping different key ranges in the distinct tables reduces the number of tables accessed during the read. This is done by inspecting the table metadata and filtering out the tables whose ranges do not contain a searched key.
+Each level has a limit on table size and amount of tables. As soon as number of tables exceed the threshold, the compaction process is running: tables from current level are merged with tables on the next level, holding the overlapping key range.
+![[Leveled Compaction 2024-07-03 17.25.59.excalidraw]]

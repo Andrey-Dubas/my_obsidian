@@ -15,5 +15,5 @@ The algorithm:
 - write \<BEGIN CHPT\>
 - flush it to the disk
 - Flush [[Dirty pages table (DPT)]] and transaction table to the disk
-- write END CKPT and flush to the disk
+- write \<END CKPT\> and flush to the disk
 - 

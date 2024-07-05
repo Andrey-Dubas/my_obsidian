@@ -1,0 +1,1 @@
+When using the 3rd party registration model, the service instances aren't responsible for registration in the [[Service Registry]]. Instead, another system component known as the [[Service Register]] is responsible registration. 

@@ -37,14 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md",
+                "file": "Ch5 Transaction processing and Recovery/Read and Write Anomalies/Write Anomalies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27237189b2e9e356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch5 Transaction processing and Recovery/Read and Write Anomalies/Write Anomalies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab4b2a5de5d029db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch5 Transaction processing and Recovery/Concurrency Control/Concurrency Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7add9569291d0d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ch 7 Log-Structured Storage/Leveled Compaction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md",
+                "file": "Ch 7 Log-Structured Storage/Leveled Compaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md",
+                "file": "Ch 7 Log-Structured Storage/Leveled Compaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md"
+                "file": "Ch 7 Log-Structured Storage/Leveled Compaction.md"
               }
             }
           }
@@ -172,45 +208,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a8c38b2b0026885",
+  "active": "7add9569291d0d19",
   "lastOpenFiles": [
-    "Ch5 Transaction processing and Recovery/ARIES.md",
-    "Ch5 Transaction processing and Recovery/LSN (Log Sequence Number).md",
+    "Excalidraw/Leveled Compaction 2024-07-03 17.25.59.excalidraw.md",
+    "Ch 7 Log-Structured Storage/Leveled Compaction.md",
+    "Ch 7 Log-Structured Storage/Two-Component LSM Tree.md",
+    "Excalidraw/Two-Component LSM Tree 2024-06-28 17.33.41.excalidraw.md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Concurrency Control.md",
+    "Excalidraw/Two-Component LSM Tree 2024-06-28 17.27.32.excalidraw.md",
+    "Ch 7 Log-Structured Storage/LSM (Log-Structured Merge) Trees.md",
+    "Ch5 Transaction processing and Recovery/Blink-Trees.md",
+    "Ch 7 Log-Structured Storage",
+    "Excalidraw/Blink-Trees 2024-06-27 22.12.40.excalidraw.md",
+    "Ch4 Implementing B-Trees/B star - tree.md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Latch Upgrading.md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Latch Crabbing.md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Locks.md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Pessimistic Concurrency Control (PCC).md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Multiversion ConcurrencyControl (MVCC).md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Optimistic Concurrency Control (OCC).md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control/Untitled.md",
+    "Ch5 Transaction processing and Recovery/Concurrency Control",
+    "Ch5 Transaction processing and Recovery/Read and Write Anomalies/Write Anomalies.md",
+    "Ch5 Transaction processing and Recovery/Serializability.md",
+    "Optimistic Concurrency Control(OCC).md",
     "Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md",
+    "Ch5 Transaction processing and Recovery/Isolation Levels.md",
+    "Ch5 Transaction processing and Recovery/Locking Pages in Cache.md",
+    "Ch5 Transaction processing and Recovery/LSN (Log Sequence Number).md",
+    "Ch5 Transaction processing and Recovery/Operation Versus Data Log.md",
+    "Ch5 Transaction processing and Recovery/Page  Replacement.md",
     "Pasted image 20240625220546.png",
     "Pasted image 20240625220332.png",
     "Pasted image 20240625220222.png",
     "Pasted image 20240625220152.png",
-    "Ch5 Transaction processing and Recovery/entities/write-ahead log (WAL).md",
-    "Ch5 Transaction processing and Recovery/Buffer Management.md",
-    "Ch5 Transaction processing and Recovery/Page eviction.md",
-    "Ch5 Transaction processing and Recovery/Untitled.md",
     "Pasted image 20240625215236.png",
-    "Ch5 Transaction processing and Recovery/entities/Checkpoint.md",
     "Pasted image 20240625214500.png",
     "Pasted image 20240625214450.png",
-    "Ch5 Transaction processing and Recovery/Page  Replacement.md",
-    "Ch5 Transaction processing and Recovery/Locking Pages in Cache.md",
-    "Ch5 Transaction processing and Recovery/entities/Untitled.md",
-    "Ch5 Transaction processing and Recovery/entities/Log manager.md",
-    "Ch5 Transaction processing and Recovery/entities/Lock Manager.md",
     "Ch5 Transaction processing and Recovery/entities",
-    "Ch5 Transaction processing and Recovery/entities/Transaction manager.md",
-    "Ch4 Implementing B-Trees/Page defragmentation.md",
     "Ch5 Transaction processing and Recovery",
-    "Ch4 Implementing B-Trees/Compression.md",
-    "Excalidraw/Compression 2024-06-25 15.10.31.excalidraw.md",
     "Excalidraw",
-    "Ch4 Implementing B-Trees/Bulk Loading.md",
-    "Ch4 Implementing B-Trees/Right-only appends.md",
-    "Ch4 Implementing B-Trees/Rebalancing.md",
-    "Ch4 Implementing B-Trees/Overflow Pages.md",
-    "Ch4 Implementing B-Trees/Node high keys.md",
-    "Ch4 Implementing B-Trees/Rightmost pointers.md",
-    "2024-06-17.md",
     "Untitled.canvas",
-    "Ch 3 file formats/Versioning.md",
-    "Ch4 Implementing B-Trees/Sibling links.md",
     "Ch4 Implementing B-Trees",
     "Ch 3 file formats"
   ]

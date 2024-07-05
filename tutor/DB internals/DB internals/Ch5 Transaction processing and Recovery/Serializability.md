@@ -1,4 +1,4 @@
-[[transaction]] is a set of write/read operation executed against the DB.
+ [[transaction]] is a set of write/read operation executed against the DB.
 [[schedule]] is a list of operations required to execute a set of transactions from data-base-system perspective.
 A schedule is ==complete== if it contains all operations of the set of transactions.
 

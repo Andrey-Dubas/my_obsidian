@@ -1,0 +1,7 @@
+[[Optimistic Concurrency Control (OCC)]] - allow transactions to execute concurrent read and write operations, and determines whether or not the result of the combined execution is [[serializable]]. Transactions do not block each other, ==maintain histories of their operations and check these histories for possible conflicts before commit==. if execution results in a conflict, one of the conflicting transactions is aborted.
+
+It assumes that conflict occurs rarely and, instead of using locks and blocking transaction execution, we can validate transactions to prevent read/write conflicts with concurrently executing transactions and ensure [[Serializability]] before committing their results.
+Generally, transaction execution is split in 3 phases:
+- Read Phase - The transaction executes its steps in its own private context, without making any of the changes visible to other transactions. After this step, all transaction dependencies (read set) are known, as well as side effects the transaction produces (write sets).
+- Validation Phase - Read and write sets of concurrent transactions are checked for the presence of possible conflicts between their operations that might violate [[Serializability]].If some of the data changes during read phase, It will update read set.
+- Write Phase - If the validations phase is ok, the transaction can commit its write set from the private contexts.

@@ -1,0 +1,1 @@
+B \* tree keep on keep on redistribution data between nodes ([[Rebalancing]]) 

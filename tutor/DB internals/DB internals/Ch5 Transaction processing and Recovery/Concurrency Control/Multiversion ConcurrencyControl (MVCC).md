@@ -1,0 +1,1 @@
+It distinguishes between committed and uncommitted versions, that corresponds to changes from committed and uncommitted transactions. The last committed value is assumed current.
