@@ -222,9 +222,11 @@
   },
   "active": "80b7e6b3bd169092",
   "lastOpenFiles": [
+    "DB internals/Ch5 Transaction processing and Recovery/Steal and Force Policies.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Isolation Levels.md",
+    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
     "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Nonrepeatable Read.md",
     "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Phantom Records.md",
-    "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/Dirty Read.md",
     "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies/README.md",
     "Untitled.md",
     "DB internals/Ch5 Transaction processing and Recovery/Read and Write Anomalies",
@@ -232,7 +234,6 @@
     "DB internals/Ch5 Transaction processing and Recovery/Serializability.md",
     "DB internals/Ch5 Transaction processing and Recovery/Concurrency Control.md",
     "DB internals/Ch5 Transaction processing and Recovery/ARIES.md",
-    "DB internals/Ch5 Transaction processing and Recovery/Steal and Force Policies.md",
     "DB internals/Ch5 Transaction processing and Recovery/Operation Versus Data Log.md",
     "DB internals/Ch5 Transaction processing and Recovery/Fuzzy Checkpoint.md",
     "DB internals/Ch5 Transaction processing and Recovery/entities/Transaction manager.md",
@@ -247,7 +248,6 @@
     "DB internals/Ch5 Transaction processing and Recovery/entities/Untitled.md",
     "DB internals/Ch4 Implementing B-Trees/Compression.md",
     "DB internals/Ch4 Implementing B-Trees/Bulk Loading.md",
-    "DB internals/Ch4 Implementing B-Trees/Right-only appends.md",
-    "DB internals/Ch4 Implementing B-Trees/Overflow Pages.md"
+    "DB internals/Ch4 Implementing B-Trees/Right-only appends.md"
   ]
 }

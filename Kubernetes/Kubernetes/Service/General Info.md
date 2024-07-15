@@ -2,6 +2,8 @@
 Which Pods to forward the request to?
 The Ports are identified via selector or labels
 
+Services operate on layer 3 level (TCP/UDP)
+
 
 ==LoadBalancer Service is an extension of NodePort Service==
 ==NodePort Service is an extension of ClusterIP Service== 

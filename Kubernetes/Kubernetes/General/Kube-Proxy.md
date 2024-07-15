@@ -1,1 +1,1 @@
-This node component maintains network rules on nodes.
+This node component maintains network rules on nodes, can peform udp and TCP forwarding. It finds cluster IP via DNS.
