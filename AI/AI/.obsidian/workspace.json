@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "a2a84aef816fb069",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b5fdf39162457d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50851717255867f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39d4e37c48c05f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4c41dc2a2bc3fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab1cefa38868bcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b52eec6c4ed43c0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5950294ba37dd238",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daf0526225d2e081",
+    "type": "split",
+    "children": [
+      {
+        "id": "29bde494de0fb7bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73daea34fc0dae09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fe40c819ac97b26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dd7a938d54df092",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94ab8ebb250ec298",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a50851717255867f",
+  "lastOpenFiles": [
+    "Excalidraw/Learning Agent 2024-08-23 17.10.02.excalidraw.md",
+    "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+    "Excalidraw",
+    "ch2 Intelligent Agents/types of agents/Goal-Based Agents.md",
+    "ch2 Intelligent Agents/types of agents/Utility-Based Agents.md",
+    "ch2 Intelligent Agents/types of agents",
+    "ch2 Intelligent Agents/types of agents/Model-Based Reflex Agents.md",
+    "ch2 Intelligent Agents/types of agents/Simple Reflex Agent.md",
+    "ch2 Intelligent Agents/Task Environment.md",
+    "ch2 Intelligent Agents/Performance Measure.md",
+    "ch2 Intelligent Agents/Rational Agent.md",
+    "ch2 Intelligent Agents/Consequentialism.md",
+    "ch2 Intelligent Agents/Agent.md",
+    "ch2 Intelligent Agents/Percept Sequence.md",
+    "ch2 Intelligent Agents/Percept.md",
+    "ch1 Intro/the foundations of AI/Bayesian Network.md",
+    "ch2 Intelligent Agents",
+    "ch1 Intro/the foundations of AI/Hebbian Learning.md",
+    "ch1 Intro/the foundations of AI/MARKOV CHAIN/Markov Chain - 3 N-step transition matrix.md",
+    "Pasted image 20240821125200 1.png",
+    "Pasted image 20240821125200.png",
+    "ch1 Intro/the foundations of AI/MARKOV CHAIN/Markov Chains - 2.md",
+    "Pasted image 20240821123710.png",
+    "ch1 Intro/the foundations of AI/MARKOV CHAIN/Markov chains1.md",
+    "ch1 Intro/the foundations of AI/MARKOV CHAIN",
+    "Pasted image 20240820183013.png",
+    "ch1 Intro/the foundations of AI/Gödel incompleteness theory.md",
+    "Pasted image 20240820181315.png",
+    "ch1 Intro/the foundations of AI/The inception of artificial intelligence.md",
+    "Welcome.md",
+    "ch1 Intro/the foundations of AI",
+    "ch1 Intro"
+  ]
+}

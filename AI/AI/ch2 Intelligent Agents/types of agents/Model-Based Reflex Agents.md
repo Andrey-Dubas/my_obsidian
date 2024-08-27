@@ -1,0 +1,2 @@
+The most effective way to handle partial observability is for the agent to keep track of the part of the world it can't see now.
+It usually contains **sensor model** (e.g. camera in a self-driving car wet) and transition model (behaviour of objects that are not observed anymore)

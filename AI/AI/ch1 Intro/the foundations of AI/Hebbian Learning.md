@@ -1,0 +1,1 @@
+Donald Hebb (1949) demonstrated a simple rule updating rule for modifying the connection strengths between neurons.

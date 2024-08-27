@@ -1,0 +1,3 @@
+Sometimes we act to make ourselves happy. What would be "happy" or "unhappy" for machine?  For scientific world we use world **Utility**.
+Therefore, we need to calculate somehow Utility using **Utility Function**.
+As we can't observe the whole world and we need to model unobserved part, we also sometimes not use about utility, therefore, we use **Expected Utility** whose value an [[Agent]] tries to maximize.

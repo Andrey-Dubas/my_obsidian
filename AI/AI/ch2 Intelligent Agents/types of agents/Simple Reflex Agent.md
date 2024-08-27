@@ -1,0 +1,1 @@
+The simplest kind of an agent. These agents select actions on the basis of the current percept, ignoring the rest of percept history.

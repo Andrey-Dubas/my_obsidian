@@ -1,0 +1,1 @@
+We use term[[Percept]] to refer to the content an agent's sensors are perceiving.

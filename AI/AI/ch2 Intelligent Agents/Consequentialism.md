@@ -1,0 +1,1 @@
+We evaluate an agent's behaviour by its **consequences**. The [[Agent]] das a consequence of actions, because of them the environment goes thru a sequence of states. If the sequence is desirable (of the state of env is desirable), the agent performed well.

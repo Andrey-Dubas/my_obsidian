@@ -1,0 +1,1 @@
+An [[Agent]] is anything that perceives an environment through sensors and acting upon that environment through actuators.

@@ -1,0 +1,1 @@
+[[Percept Sequence]] is the complete history of everything the agent has ever perceived
