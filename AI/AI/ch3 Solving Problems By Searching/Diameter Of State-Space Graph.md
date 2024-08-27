@@ -1,0 +1,1 @@
+Diameter is a number of actions required to get from any state to any state.

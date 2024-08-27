@@ -1,0 +1,1 @@
+An [[Uninformed Search Strategies]] is given no clue about how close a state is the the goal.

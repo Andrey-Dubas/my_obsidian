@@ -1,0 +1,2 @@
+[[Greedy Best-First Search]] is a form of best-first search that expands first the node with the lowest h(n) value - the node appears to be closest to the goal - on the grounds that this is likely to lead to a solution quickly. So the evaluation function is heuristic function f(n) = h(n).
+Greedy - on each iteration it tries to get as close to the goal as possible - but in long run greediness can lead to worse results than being careful.

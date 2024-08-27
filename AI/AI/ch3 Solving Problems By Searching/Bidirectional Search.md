@@ -1,0 +1,2 @@
+The algorithm we have covered so far start at an initial state and can reach any one of multiple possible goal states. An alternatime is to use [[Bidirectional Search]], that starts both from initial state and a goal, hoping 2 searches will meet.
+We need to keep track of 2 frontiers and 2 tables.
