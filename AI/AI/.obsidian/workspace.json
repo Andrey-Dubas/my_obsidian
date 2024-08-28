@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+                "file": "ch3 Solving Problems By Searching/A (star) Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+                "file": "ch3 Solving Problems By Searching/A (star) Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+                "file": "ch3 Solving Problems By Searching/A (star) Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ch2 Intelligent Agents/types of agents/Learning Agent.md"
+                "file": "ch3 Solving Problems By Searching/A (star) Search.md"
               }
             }
           }
@@ -149,8 +149,24 @@
   },
   "active": "a50851717255867f",
   "lastOpenFiles": [
-    "Excalidraw/Learning Agent 2024-08-23 17.10.02.excalidraw.md",
+    "ch3 Solving Problems By Searching/Greedy Best-First Search.md",
+    "ch3 Solving Problems By Searching/Breadth-First Search.md",
+    "ch3 Solving Problems By Searching/Measuring Problem-Solving Performance.md",
+    "ch3 Solving Problems By Searching/A (star) Search.md",
     "ch2 Intelligent Agents/types of agents/Learning Agent.md",
+    "ch3 Solving Problems By Searching/Vocabulary.md",
+    "ch3 Solving Problems By Searching/Uninformed Search Strategies.md",
+    "ch3 Solving Problems By Searching/Uniform-Cost Search.md",
+    "ch3 Solving Problems By Searching/Search problems and solutions.md",
+    "ch3 Solving Problems By Searching/Problem-Solving Agent.md",
+    "ch3 Solving Problems By Searching/Informed (Heuristic) Search Strategies.md",
+    "ch3 Solving Problems By Searching/Dijkstra's Algorithm.md",
+    "ch3 Solving Problems By Searching/Diameter Of State-Space Graph.md",
+    "ch3 Solving Problems By Searching/Bidirectional Search.md",
+    "ch3 Solving Problems By Searching/Best-First Search.md",
+    "ch3 Solving Problems By Searching",
+    "ch2 Intelligent Agents/State Representation.md",
+    "Excalidraw/Learning Agent 2024-08-23 17.10.02.excalidraw.md",
     "Excalidraw",
     "ch2 Intelligent Agents/types of agents/Goal-Based Agents.md",
     "ch2 Intelligent Agents/types of agents/Utility-Based Agents.md",
@@ -162,23 +178,13 @@
     "ch2 Intelligent Agents/Rational Agent.md",
     "ch2 Intelligent Agents/Consequentialism.md",
     "ch2 Intelligent Agents/Agent.md",
-    "ch2 Intelligent Agents/Percept Sequence.md",
-    "ch2 Intelligent Agents/Percept.md",
-    "ch1 Intro/the foundations of AI/Bayesian Network.md",
     "ch2 Intelligent Agents",
-    "ch1 Intro/the foundations of AI/Hebbian Learning.md",
-    "ch1 Intro/the foundations of AI/MARKOV CHAIN/Markov Chain - 3 N-step transition matrix.md",
     "Pasted image 20240821125200 1.png",
     "Pasted image 20240821125200.png",
-    "ch1 Intro/the foundations of AI/MARKOV CHAIN/Markov Chains - 2.md",
     "Pasted image 20240821123710.png",
-    "ch1 Intro/the foundations of AI/MARKOV CHAIN/Markov chains1.md",
     "ch1 Intro/the foundations of AI/MARKOV CHAIN",
     "Pasted image 20240820183013.png",
-    "ch1 Intro/the foundations of AI/Gödel incompleteness theory.md",
     "Pasted image 20240820181315.png",
-    "ch1 Intro/the foundations of AI/The inception of artificial intelligence.md",
-    "Welcome.md",
     "ch1 Intro/the foundations of AI",
     "ch1 Intro"
   ]
