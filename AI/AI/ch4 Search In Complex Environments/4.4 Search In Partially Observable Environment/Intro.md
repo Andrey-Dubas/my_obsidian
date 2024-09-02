@@ -1,0 +1,1 @@
+We now turn to problem with partial observability, where agent's percept are not enough to pin down the exact state. That means that some of the agent's actions will be aimed at reducing uncertainty about the current state.

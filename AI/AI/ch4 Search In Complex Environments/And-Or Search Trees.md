@@ -1,0 +1,5 @@
+Use [[And-Or Search Trees]] when the environment is [[Nondeterministic Environment]]. 
+In deterministic world, the only branching introduced caused by agent's action. We call these nodes [[OR Node]]s. 
+In [[Nondeterministic Environment]] branching also caused by environment "choice". We call these nodes [[And Nodes]]. e.g. _suck_ action in may results in different states (clear current tile or clean both tiles).
+One key aspect of algo is how it deals with cycles, which often arise in non-deterministic problems. (e.g. action sometimes has no effect or unintended effect can be corrected). If the current state is identical to a state on a path to the root, it returns a failure. It means the solution is a noncyclic path.
+[[And-Or Search Trees]] can be explored by [[Breadth-First Search]] of [[Best-First Search]]. The concept of heuristic function must be modified to estimate the cost of a contingent solution rather than a sequence.

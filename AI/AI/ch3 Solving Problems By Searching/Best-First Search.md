@@ -1,2 +1,2 @@
-How do we decide which node from the frontier to expand next? A very general approach is called [[Best-First Search]], in which we shoose a node with a minimum value of some evaluation function.
-Specofic Example: [[Dijkstra's Algorithm]].
+How do we decide which node from the frontier to expand next? A very general approach is called [[Best-First Search]], in which we choose a node with a minimum value of some **evaluation function** f(n).
+Specific Example: [[Dijkstra's Algorithm]].
