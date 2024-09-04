@@ -1,0 +1,2 @@
+This chapter we work with **factored representation** for each state: a set of variables. A problem is solved when each variable has a value that satisfies all the constrain of variable. The problem described called **Constraint Satisfaction Problem**.
+SCP search algorithms take adwantage of the fact that it uses  general purpose heuristics. The main idea is to eliminate a large portions of the search space all at once by identifying variable combinations that violate constraints.

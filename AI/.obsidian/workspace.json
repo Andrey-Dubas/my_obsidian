@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Incremental Belief-State Search.md",
+                "file": "AI/ch5 Constraint Satisfaction Problem/5.1 Defining Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Incremental Belief-State Search.md",
+                "file": "AI/ch5 Constraint Satisfaction Problem/5.1 Defining Constraint Satisfaction Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Incremental Belief-State Search.md",
+                "file": "AI/ch5 Constraint Satisfaction Problem/5.1 Defining Constraint Satisfaction Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Incremental Belief-State Search.md"
+                "file": "AI/ch5 Constraint Satisfaction Problem/5.1 Defining Constraint Satisfaction Problems.md"
               }
             }
           }
@@ -162,6 +162,10 @@
   },
   "active": "c3bb69edaef7dfff",
   "lastOpenFiles": [
+    "AI/ch5 Constraint Satisfaction Problem/Intro.md",
+    "AI/ch5 Constraint Satisfaction Problem/5.1 Defining Constraint Satisfaction Problems.md",
+    "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Searching In Partially Observable Environments.md",
+    "AI/ch5 Constraint Satisfaction Problem",
     "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/4.4.1 Searching With No Observation.md",
     "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Incremental Belief-State Search.md",
     "AI/ch4 Search In Complex Environments/4.4 Search In Partially Observable Environment/Intro.md",
@@ -188,9 +192,6 @@
     "Excalidraw/Drawing 2024-08-28 13.54.02.excalidraw.md",
     "Excalidraw/Drawing 2024-08-28 13.51.02.excalidraw.md",
     "Excalidraw",
-    "AI/ch3 Solving Problems By Searching/Greedy Best-First Search.md",
-    "AI/ch3 Solving Problems By Searching/Breadth-First Search.md",
-    "AI/ch3 Solving Problems By Searching/Search problems and solutions.md",
     "AI/ch3 Solving Problems By Searching/Untitled",
     "AI/ch3 Solving Problems By Searching"
   ]
